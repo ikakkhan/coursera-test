@@ -22,3 +22,26 @@ body {
     border: 2px solid black;
     color: white;
 }
+
+/*navigator*/
+nav {
+    text-align: left;
+    font-size: 24px;
+}
+
+/*main site list*/
+nav>ol>li {
+    font-size: 0.8em;
+    margin-bottom: 3px;
+}
+
+/*all link link*/
+a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+a:hover, a:active {
+    text-decoration: underline;
+}
