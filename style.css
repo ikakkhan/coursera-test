@@ -1,0 +1,18 @@
+/*button*/
+.button {
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 3px;
+}
+.button:link, .button:visited {
+    background-color: green;
+    border: 2px solid black;
+    color: black;
+}
+.button:hover, .button:active {
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+}
