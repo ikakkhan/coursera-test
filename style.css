@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
