@@ -38,10 +38,11 @@ nav>ol>li {
 /*all link link*/
 a:link, a:visited {
     text-decoration: none;
-    color: blue;
+    color: rgb(0, 162, 255);
     font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+    font-weight: 500;
 }
 a:hover, a:active {
-    text-decoration: underline;
+    color: blue;
+    font-weight: bold;
 }
