@@ -8,20 +8,23 @@ body {
     font-size: 24px;
 }
 
-/*button*/
-.button {
+/*backbutton*/
+.backbutton {
     text-decoration: none;
     display: block;
     width: 200px;
     text-align: center;
     margin-bottom: 3px;
+    position: absolute;
+    left: 10px;
+    bottom: 100px;
 }
-.button:link, .button:visited {
+.backbutton:link, .backbutton:visited {
     background-color: green;
     border: 2px solid black;
     color: black;
 }
-.button:hover, .button:active {
+.backbutton:hover, .backbutton:active {
     background-color: blue;
     border: 2px solid black;
     color: white;
