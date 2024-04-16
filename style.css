@@ -21,8 +21,8 @@ body {
     text-align: center;
     margin-bottom: 3px;
     position: absolute;
-    left: 10px;
-    bottom: 100px;
+    left: 20px;
+    bottom: -100px;
 }
 .backbutton:link, .backbutton:visited {
     background-color: green;
